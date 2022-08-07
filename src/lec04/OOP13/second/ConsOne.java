@@ -10,6 +10,7 @@ public class ConsOne {
     }
 
     ConsOne(String cpuName, String gpuName) {
+
         System.out.println("파라미터가 있는 생성자");
     }
 
